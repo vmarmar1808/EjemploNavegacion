@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjemploNavegacion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ir fragmento 2</string>
+    <string name="hello_blank_2fragment">Bienvenido al fragmento 2</string>
+</resources>
